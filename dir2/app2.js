@@ -1,0 +1,1 @@
+console.log("أ ب ب");
